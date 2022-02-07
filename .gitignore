@@ -102,3 +102,19 @@ dist
 
 # TernJS port file
 .tern-port
+.DS_Store
+.idea/misc.xml
+.idea/modules.xml
+.idea/TMDbAssignment.iml
+.idea/vcs.xml
+TMDbApp/.buckconfig
+TMDbApp/.bundle/config
+TMDbApp/.eslintrc.js
+TMDbApp/.flowconfig
+TMDbApp/.prettierrc.js
+TMDbApp/.ruby-version
+TMDbApp/.watchmanconfig
+TMDbApp/android/app/BUCK
+TMDbApp/yarn.lock
+TMDbApp/ios/Podfile.lock
+TMDbApp/Gemfile.lock
