@@ -1,15 +1,15 @@
 # TMDbAssignment
-to create a movie list react native app
+To create a movie list react native app
 
 # Run Android App
-1-install node modules yarn install
-2-sync the android gradle files
-3- run command npx react-native run-android
+1-Install node modules yarn install <br/>
+2-Sync the android gradle files <br/>
+3-Run command npx react-native run-android <br/>
 
 # Run iOS App
-1-install node modules yarn install
-2-install pod files pod install
-3- run command npx react-native run-ios
+1-Install node modules yarn install <br/>
+2-Install pod files pod install <br/>
+3-Run command npx react-native run-ios <br/>
 
 # Screenshots
 <img width="440" alt="Screenshot 2022-02-09 at 6 17 33 PM" src="https://user-images.githubusercontent.com/71845533/153208947-fd21c836-2578-4ac1-81a7-9294daf9e35d.png">
