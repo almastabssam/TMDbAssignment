@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Render Component Correctly renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "alignSelf": "center",
+        "color": "gray",
+        "fontSize": 18,
+        "height": 40,
+        "textAlign": "center",
+        "width": "100%",
+      }
+    }
+  >
+    No Record Found
+  </Text>
+</View>
+`;
